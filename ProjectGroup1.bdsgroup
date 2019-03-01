@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{E9440C5A-CA63-4F2D-91FA-46812F817B3F}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="otladka_coml.exe">otladka_coml.bdsproj</Projects>
+      <Projects Name="home_work.exe">home_work.bdsproj</Projects>
+      <Projects Name="Targets">otladka_coml.exe home_work.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
